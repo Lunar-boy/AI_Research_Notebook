@@ -1,1 +1,0 @@
-Recent works have shown that the restriction to real, non-negative eigenvalue transitions degrades the capabilities of the model on simple state-tracking tasks---here referring primarily to the solvable-group regime ($\text{TC}^0$) such as parity---which can be solved by a one-layer LSTM.
